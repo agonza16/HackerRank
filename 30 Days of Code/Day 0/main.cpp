@@ -14,6 +14,7 @@ int main() {
     cout << "Hello, World." << endl;
 
     // TODO: Write a line of code here that prints the contents of input_string to stdout.
-
+     cout<< input_string <<endl;
+     
     return 0;
 }
