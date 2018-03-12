@@ -31,7 +31,7 @@ int main() {
         else 
         {
             cout << "Not found" << endl;
-        }
+        } 
     }
     return 0;
 }
